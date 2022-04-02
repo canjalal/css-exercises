@@ -1,0 +1,25 @@
+.pinkclass {
+    font-size: 36px;
+    background-color: #FFC0CB;
+ /*    font-family: Arial, Helvetica, sans-serif; */
+}
+
+.tutu {
+    font-size: 48px;
+}
+
+#bluenum {
+    font-size: 72px;
+    color: rgb(76, 0, 255)
+}
+
+#number4 {
+    /* a light green background, a font size of 24px, and bold */
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
